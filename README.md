@@ -18,6 +18,7 @@ DB : Dot balls
 Run command : python main.py
 Note : Refer input.txt for input format (or copy paste data after running cmd)
 
+```
 Sample Input and Output : 
     No. of players for each team :5
     No. of overs : 2
@@ -165,3 +166,4 @@ Sample Input and Output :
 
 
     Team 1 won the match by 1 runs
+```
