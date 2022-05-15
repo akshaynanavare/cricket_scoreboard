@@ -6,6 +6,7 @@ Code workflow :
 5. After each over, batting's team and bowling team's scoreboard is displayed
 6. All the team stats and player stats are controlled by CricketTeam class objects and Player class objects respectively
 
+```
 Terms used in scoretable :
 BP : Balls played
 SR : Strike rate
@@ -18,7 +19,6 @@ DB : Dot balls
 Run command : python main.py
 Note : Refer input.txt for input format (or copy paste data after running cmd)
 
-```
 Sample Input and Output : 
     No. of players for each team :5
     No. of overs : 2
